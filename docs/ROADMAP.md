@@ -316,9 +316,13 @@ Esta fase será considerada concluída quando:
 
 ### Status
 
-```text
 Concluída
-```
+
+### Conquistas Adicionais
+- Estrutura inicial do projeto criada.
+- Repositório GitHub criado.
+- Git configurado.
+- Primeiro push realizado com sucesso.
 
 ---
 
